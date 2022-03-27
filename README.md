@@ -10,5 +10,5 @@ https://themes.vscode.one/theme/mcn/j6YiqQR3
 
 ## Installation
 
-You can download the telescope-theme-0.0.1 from here:
+You can download the telescope-theme-0.0.2 from here:
 https://marketplace.visualstudio.com/items?itemName=Alucardness.telescope-theme
