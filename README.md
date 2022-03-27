@@ -10,8 +10,5 @@ https://themes.vscode.one/theme/mcn/j6YiqQR3
 
 ## Installation
 
-You need to download the telescope-theme-0.0.1.vsix file and then install it.
-
-```sh
-code --install-extension telescope-theme-0.0.1.vsix
-```
+You can download the telescope-theme-0.0.1 from here:
+https://marketplace.visualstudio.com/items?itemName=Alucardness.telescope-theme
