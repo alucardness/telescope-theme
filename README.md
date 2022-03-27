@@ -7,3 +7,11 @@ That's the repository of the original telescope theme by mcn.
 https://themes.vscode.one/theme/mcn/j6YiqQR3
 
 ![N](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/HloWOfNl5nR6dn7uhpo1aELWRW13/j6YiqQR3-default.jpeg)
+
+## Installation
+
+You need to download the telescope-theme-0.0.1.vsix file and then install it.
+
+```sh
+code --install-extension telescope-theme-0.0.1.vsix
+```
