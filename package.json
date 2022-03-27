@@ -1,0 +1,35 @@
+{
+    "name": "telescope-theme",
+    "displayName": "telescope-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Telescope Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Telescope Theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alucardness/telescope-theme"
+    },
+    "galleryBanner": {
+        "color": "#161620",
+        "theme": "dark"
+    },
+    "keywords": [
+        "theme",
+        "telescope theme",
+        "telescope-theme",
+        "dark"
+    ]
+}
