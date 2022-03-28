@@ -3,7 +3,8 @@
     "displayName": "telescope-theme",
     "publisher": "Alucardness",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.4",
+    "icon": "icon/icon.jpg",
     "engines": {
         "vscode": "^0.0.1"
     },
@@ -16,6 +17,11 @@
                 "label": "Telescope Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Telescope Theme-color-theme.json"
+            },
+            {
+                "label": "Telescope Theme (Alucardness Version) (White keywords and classes)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/telescope-color-theme-edit.json"
             }
         ]
     },
@@ -31,6 +37,16 @@
         "theme",
         "telescope theme",
         "telescope-theme",
-        "dark"
+        "dark",
+        "theme telescope",
+        "alucardness theme",
+        "stars theme",
+        "sky theme",
+        "star theme",
+        "nasa",
+        "stars",
+        "sky",
+        "star wars",
+        "star trek"
     ]
 }
