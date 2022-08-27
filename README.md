@@ -9,6 +9,9 @@ https://themes.vscode.one/theme/mcn/j6YiqQR3
 
 ![N](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/HloWOfNl5nR6dn7uhpo1aELWRW13/j6YiqQR3-default.jpeg)
 
+Also including my modified version of it.
+![N](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/LqvgxAopnechPIcOQ5aqInyau3x2/K36LHZ6y-default.jpeg)
+
 ## Installation
 
 You can download the telescope-theme-0.0.6 from here:
