@@ -1,4 +1,5 @@
-# Telescope Theme for 
+# Telescope Theme for
+
 ![N](https://mky.gallerycdn.vsassets.io/extensions/mky/netflix-red/0.0.7/1545394820972/Microsoft.VisualStudio.Services.Icons.Default)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -10,5 +11,5 @@ https://themes.vscode.one/theme/mcn/j6YiqQR3
 
 ## Installation
 
-You can download the telescope-theme-0.0.4 from here:
+You can download the telescope-theme-0.0.6 from here:
 https://marketplace.visualstudio.com/items?itemName=Alucardness.telescope-theme

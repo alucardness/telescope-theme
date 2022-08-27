@@ -1,52 +1,52 @@
 {
-    "name": "telescope-theme",
-    "displayName": "telescope-theme",
-    "publisher": "Alucardness",
-    "description": "",
-    "version": "0.0.4",
-    "icon": "icon/icon.jpg",
-    "engines": {
-        "vscode": "^0.0.1"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Telescope Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Telescope Theme-color-theme.json"
-            },
-            {
-                "label": "Telescope Theme (Alucardness Version) (White keywords and classes)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/telescope-color-theme-edit.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/alucardness/telescope-theme"
-    },
-    "galleryBanner": {
-        "color": "#161620",
-        "theme": "dark"
-    },
-    "keywords": [
-        "theme",
-        "telescope theme",
-        "telescope-theme",
-        "dark",
-        "theme telescope",
-        "alucardness theme",
-        "stars theme",
-        "sky theme",
-        "star theme",
-        "nasa",
-        "stars",
-        "sky",
-        "star wars",
-        "star trek"
+  "name": "telescope-theme",
+  "displayName": "telescope-theme",
+  "publisher": "Alucardness",
+  "description": "",
+  "version": "0.0.6",
+  "icon": "icon/icon.jpg",
+  "engines": {
+    "vscode": "^0.0.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Telescope Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Telescope Theme-color-theme.json"
+      },
+      {
+        "label": "Telescope Theme (Alucardness Version) (White keywords and classes)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/telescope-color-theme-edit.json"
+      }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alucardness/telescope-theme"
+  },
+  "galleryBanner": {
+    "color": "#161620",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "telescope theme",
+    "telescope-theme",
+    "dark",
+    "theme telescope",
+    "alucardness theme",
+    "stars theme",
+    "sky theme",
+    "star theme",
+    "nasa",
+    "stars",
+    "sky",
+    "star wars",
+    "star trek"
+  ]
 }
